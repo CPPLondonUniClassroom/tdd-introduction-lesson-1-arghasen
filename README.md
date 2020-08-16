@@ -1,3 +1,5 @@
+![C/C++ CI](https://github.com/CPPLondonUniClassroom/tdd-introduction-lesson-1-arghasen/workflows/C/C++%20CI/badge.svg)
+
 # TDD Practice - Lesson 1
 
 This code is designed to get you to practice TDD.
